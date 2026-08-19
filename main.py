@@ -43,7 +43,9 @@ def main():
         }
     response_achievements = requests.get(url_achievements, params=params_achievements)
     response_games.raise_for_status()
+
     data_achievements = response_achievements.json()
+    
     achievements = data_achievements.get("playerstats", {}).get("achievements", [])
     for achievement in achievements:
         print(f" - {achievement["name"]}\n - {achievement["description"]}")
