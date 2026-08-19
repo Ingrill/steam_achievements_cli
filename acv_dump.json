@@ -1,0 +1,492 @@
+{
+    "playerstats": {
+        "steamID": "76561198072592090",
+        "gameName": "Half-Life 2",
+        "achievements": [
+            {
+                "apiname": "HL2_HIT_CANCOP_WITHCAN",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Defiant",
+                "description": ""
+            },
+            {
+                "apiname": "HL2_PUT_CANINTRASH",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Submissive",
+                "description": ""
+            },
+            {
+                "apiname": "HL2_ESCAPE_APARTMENTRAID",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Malcontent",
+                "description": "Escape the apartment block raid."
+            },
+            {
+                "apiname": "HL2_BREAK_MINITELEPORTER",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "What cat?",
+                "description": "Break the mini-teleporter in Kleiner's lab."
+            },
+            {
+                "apiname": "HL2_GET_CROWBAR",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Trusty Hardware",
+                "description": "Get the crowbar."
+            },
+            {
+                "apiname": "HL2_KILL_BARNACLESWITHBARREL",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Barnacle Bowling",
+                "description": "Kill five barnacles with one barrel."
+            },
+            {
+                "apiname": "HL2_GET_AIRBOAT",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Anchor's Aweigh!",
+                "description": "Get the airboat."
+            },
+            {
+                "apiname": "HL2_GET_AIRBOATGUN",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Heavy Weapons",
+                "description": "Get the airboat's mounted gun."
+            },
+            {
+                "apiname": "HL2_FIND_VORTIGAUNTCAVE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Vorticough",
+                "description": "Discover the hidden singing vortigaunt cave in chapter Water Hazard."
+            },
+            {
+                "apiname": "HL2_KILL_CHOPPER",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Revenge!",
+                "description": "Destroy the hunter-chopper in Half-Life 2."
+            },
+            {
+                "apiname": "HL2_FIND_HEVFACEPLATE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Blast from the Past",
+                "description": "Find the HEV Suit Charger faceplate in Eli's scrapyard."
+            },
+            {
+                "apiname": "HL2_GET_GRAVITYGUN",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Zero-Point Energy",
+                "description": "Get the Gravity Gun in Black Mesa East."
+            },
+            {
+                "apiname": "HL2_MAKEABASKET",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Two Points",
+                "description": "Use DOG's ball to make a basket in Eli's scrapyard."
+            },
+            {
+                "apiname": "HL2_BEAT_RAVENHOLM_NOWEAPONS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Zombie Chopper",
+                "description": "Play through Ravenholm using only the Gravity Gun."
+            },
+            {
+                "apiname": "HL2_BEAT_CEMETERY",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Hallowed Ground",
+                "description": ""
+            },
+            {
+                "apiname": "HL2_KILL_ENEMIES_WITHCRANE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "OSHA Violation",
+                "description": "Kill 3 enemies using the crane."
+            },
+            {
+                "apiname": "HL2_PIN_SOLDIER_TOBILLBOARD",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Targetted Advertising",
+                "description": "Pin a soldier to the billboard in chapter Highway 17."
+            },
+            {
+                "apiname": "HL2_KILL_ODESSAGUNSHIP",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Where Cubbage Fears to Tread",
+                "description": ""
+            },
+            {
+                "apiname": "HL2_KILL_THREEGUNSHIPS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "One Man Army",
+                "description": "Destroy six gunships in Half-Life 2."
+            },
+            {
+                "apiname": "HL2_BEAT_DONTTOUCHSAND",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Keep Off the Sand!",
+                "description": "Cross the antlion beach in chapter Sandtraps without touching the sand."
+            },
+            {
+                "apiname": "HL2_KILL_ENEMIES_WITHANTLIONS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Bug Hunt",
+                "description": "Use the antlions to kill 50 enemies."
+            },
+            {
+                "apiname": "HL2_KILL_ENEMY_WITHTOILET",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Flushed",
+                "description": "Kill an enemy with a toilet."
+            },
+            {
+                "apiname": "HL2_BEAT_TURRETSTANDOFF2",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Warden Freeman",
+                "description": "Survive the second turret standoff in Nova Prospekt."
+            },
+            {
+                "apiname": "HL2_FOLLOWFREEMAN",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Follow Freeman",
+                "description": "Gain command of a squad of rebels in the uprising."
+            },
+            {
+                "apiname": "HL2_BEAT_TOXICTUNNEL",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Radiation Levels Detected",
+                "description": "Get through the toxic tunnel under City 17 in Half-Life 2."
+            },
+            {
+                "apiname": "HL2_BEAT_PLAZASTANDOFF",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Plaza Defender",
+                "description": "Survive the generator plaza standoff in chapter Anticitizen One."
+            },
+            {
+                "apiname": "HL2_KILL_ALLC1709SNIPERS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Counter-Sniper",
+                "description": "Kill all of the snipers in City 17."
+            },
+            {
+                "apiname": "HL2_BEAT_SUPRESSIONDEVICE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Fight the Power",
+                "description": "Shut down the supression device by disabling its generators."
+            },
+            {
+                "apiname": "HL2_BEAT_C1713STRIDERSTANDOFF",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Giant Killer",
+                "description": "Survive the rooftop strider battle in the ruins of City 17."
+            },
+            {
+                "apiname": "HL2_DISINTEGRATE_SOLDIERSINFIELD",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Atomizer",
+                "description": "Disintegrate 15 soldiers by throwing them into a Combine ball field."
+            },
+            {
+                "apiname": "HL2_BEAT_GAME",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Singularity Collapse",
+                "description": ""
+            },
+            {
+                "apiname": "HL2_FIND_ALLLAMBDAS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Lambda Locator",
+                "description": "Find all lambda caches in Half-Life 2."
+            },
+            {
+                "apiname": "HLX_KILL_ENEMIES_WITHMANHACK",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Hack Attack!",
+                "description": "Kill five enemies with a Manhack."
+            },
+            {
+                "apiname": "EP1_BEAT_MAINELEVATOR",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Watch Your Head!",
+                "description": "Make it to the bottom of the Citadel's main elevator shaft in one piece."
+            },
+            {
+                "apiname": "EP1_BEAT_CITADELCORE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Containment",
+                "description": "Contain the Citadel core."
+            },
+            {
+                "apiname": "EP1_BEAT_CITADELCORE_NOSTALKERKILLS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Pacifist",
+                "description": "Contain the Citadel core without killing any stalkers."
+            },
+            {
+                "apiname": "EP1_KILL_ANTLIONS_WITHCARS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Car Crusher",
+                "description": "Use the cars to squash 15 antlions in Episode One."
+            },
+            {
+                "apiname": "EP1_BEAT_GARAGEELEVATORSTANDOFF",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Elevator Action",
+                "description": "Survive long enough to get on the parking garage elevator."
+            },
+            {
+                "apiname": "EP1_KILL_ENEMIES_WITHSNIPERALYX",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Live Bait",
+                "description": "Help Alyx snipe 30 enemies in Episode One."
+            },
+            {
+                "apiname": "EP1_BEAT_HOSPITALATTICGUNSHIP",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Attica!",
+                "description": "Destroy the gunship in the hospital attic."
+            },
+            {
+                "apiname": "EP1_BEAT_CITIZENESCORT_NOCITIZENDEATHS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Citizen Escort",
+                "description": "Don't let any citizens die when escorting them to the escape train."
+            },
+            {
+                "apiname": "EP1_BEAT_GAME",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Escape From City 17",
+                "description": "Escape City 17 with Alyx."
+            },
+            {
+                "apiname": "EP1_BEAT_GAME_ONEBULLET",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "The One Free Bullet",
+                "description": "Finish the game firing exactly one bullet. Grenade, crowbar, rocket, and Gravity Gun kills are okay!"
+            },
+            {
+                "apiname": "HLX_KILL_ENEMIES_WITHONEENERGYBALL",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Conservationist",
+                "description": "Kill five enemies with the same energy ball."
+            },
+            {
+                "apiname": "HLX_KILL_ELITESOLDIER_WITHHISENERGYBALL",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Think Fast!",
+                "description": "Kill an Elite Soldier with his own energy ball."
+            },
+            {
+                "apiname": "EPX_KILL_ZOMBIES_WITHFLARES",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Zombie-que",
+                "description": "Use flares to light 15 zombies on fire."
+            },
+            {
+                "apiname": "EP2_KILL_POISONANTLION",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Acid Reflex",
+                "description": "Kill an acid antlion worker."
+            },
+            {
+                "apiname": "EP2_KILL_ALLGRUBS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Get Some Grub",
+                "description": "Squish every antlion grub in Episode Two."
+            },
+            {
+                "apiname": "EP2_BREAK_ALLWEBS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Pi\u00f1ata Party",
+                "description": "Find and break every web cache in Episode Two."
+            },
+            {
+                "apiname": "EP2_BEAT_ANTLIONINVASION",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Into the Breach",
+                "description": "Help Griggs and Sheckley hold off the antlion invasion inside the mine shaft."
+            },
+            {
+                "apiname": "EP2_BEAT_ANTLIONGUARDS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Twofer",
+                "description": "Defeat both antlion guards outside the White Forest."
+            },
+            {
+                "apiname": "EP2_KILL_ENEMIES_WITHCAR",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Hit and Run",
+                "description": "Run over 20 enemies with the car in Episode Two."
+            },
+            {
+                "apiname": "EP2_BEAT_HUNTERAMBUSH",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Meet the Hunters",
+                "description": "Survive the Hunter ambush with Alyx."
+            },
+            {
+                "apiname": "EP2_KILL_CHOPPER_NOMISSES",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Puttin' On a Clinic",
+                "description": "Defeat the chopper in Episode Two without any misses."
+            },
+            {
+                "apiname": "EP2_KILL_COMBINECANNON",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Gunishment!",
+                "description": "Destroy the Combine Autogun in the junkyard."
+            },
+            {
+                "apiname": "EP2_FIND_ALLRADARCACHES",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Cache Checker",
+                "description": "Find every radar cache in chapter Under The Radar."
+            },
+            {
+                "apiname": "EP2_BEAT_RACEWITHDOG",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Pedal to the Metal",
+                "description": "Beat DOG in a race to the White Forest base."
+            },
+            {
+                "apiname": "EP2_BEAT_ROCKETCACHEPUZZLE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Gordon Propelled Rocket",
+                "description": "Unlock the rocket launcher lambda cache in chapter Under The Radar."
+            },
+            {
+                "apiname": "EP2_BEAT_WHITEFORESTINN",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Quiet Mountain Getaway",
+                "description": "Survive the ambush at White Forest Inn."
+            },
+            {
+                "apiname": "EP2_PUT_ITEMINROCKET",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Little Rocket Man",
+                "description": "Send the garden gnome into space."
+            },
+            {
+                "apiname": "EP2_BEAT_MISSILESILO2",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Secondary Silo Secured",
+                "description": "Secure the launch doors on missile silo 2."
+            },
+            {
+                "apiname": "EP2_BEAT_OUTLAND12_NOBUILDINGSDESTROYED",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Neighborhood Watch",
+                "description": "Save all buildings outside the missile silo from destruction."
+            },
+            {
+                "apiname": "EP2_BEAT_GAME",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Defense of the Armament",
+                "description": "Save the missile silo from the Combine offensive."
+            },
+            {
+                "apiname": "EP2_KILL_HUNTER_WITHFLECHETTES",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Payback",
+                "description": "Kill a Hunter with its own flechettes."
+            },
+            {
+                "apiname": "HLX_KILL_ENEMIES_WITHPHYSICS",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Bone Breaker",
+                "description": "Kill 30 enemies with thrown physics objects."
+            },
+            {
+                "apiname": "HLX_KILL_ENEMY_WITHHOPPERMINE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Deadly Harvest",
+                "description": "Kill an enemy by planting a hopper mine."
+            },
+            {
+                "apiname": "HLX_KILL_SOLDIER_WITHHISGRENADE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Hot Potat0wned",
+                "description": "Kill a Combine soldier with his own grenade."
+            },
+            {
+                "apiname": "EPX_GET_ZOMBINEGRENADE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Grave Robber",
+                "description": "Steal a Zombine's grenade."
+            },
+            {
+                "apiname": "GLOBAL_GNOME_ALONE",
+                "achieved": 0,
+                "unlocktime": 0,
+                "name": "Gnome Alone",
+                "description": "If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space. If you did not also receive the achievement 'Manufacturing Ascent', Newell has abandoned his plans to shoot Noam Chomsky into space."
+            }
+        ],
+        "success": true
+    }
+}
