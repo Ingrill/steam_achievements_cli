@@ -43,7 +43,7 @@ def main():
 
     games = data_games.get("response", {}).get("games", [])
     for game in games:
-        if args.name in game["name"].lower():
+        if args.name.lower() in game["name"].lower():
             game_ids.append(game["appid"])
 
     for game_id in game_ids:
