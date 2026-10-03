@@ -76,8 +76,3 @@ Portal 2
 * `main.py` — Main CLI script logic.
 * `.env` — Environment file storing your private API key (do not commit this to public repositories).
 * `.gitignore` — Make sure to list `.env` here to avoid leaking your API key.
-
-##Motivation
-##Quick Start
-##Usage
-##Contributing
